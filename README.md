@@ -6,3 +6,6 @@ Content-based filtering : Content-based filtering approaches uses a series of di
 ![6](https://user-images.githubusercontent.com/64368749/184932537-79996658-83f1-4fdb-9728-713539c817a5.png)
 #
  Here you get the top 5 movies based on your ranking of the previously selected movie along with the posters
+ 
+ # Commands
+ python main.py
